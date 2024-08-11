@@ -1,1 +1,2 @@
 # Olympic-Power-Bi-Dashboard
+This project is a comprehensive analysis of Olympic data using Power BI. It includes visualizations and insights into various aspects of the Olympic Games, such as medal counts, athlete performance, and country-wise comparisons. The report is designed to provide a clear and interactive overview of historical Olympic data, helping users understand trends and patterns over the years
